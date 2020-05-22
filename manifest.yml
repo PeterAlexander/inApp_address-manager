@@ -16,7 +16,7 @@ applications:
   destinations: >
       [
        {name: 'ErpQueryEndpoint', 
-       url:'https://businesspartner-mock-shiny-reedbuck.cfapps.eu10.hana.ondemand.com','forwardAuthToken': true}}
+       url:'https://businesspartner-mock-shiny-reedbuck.cfapps.eu10.hana.ondemand.com','forwardAuthToken': true}
       ]  
 
 
